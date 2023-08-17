@@ -1,7 +1,7 @@
 # Recruitment_Management_System
 This project was developed for the Software Design and Architecture Course, showcasing the application of various design patterns and an innovative UI to create an efficient Recruitment Management System.
 ## Introduction
-The <<Recruitment Management System>> is a Java-based application that allows HR professionals to manage their recruitment process efficiently. It includes creating jobs, adding candidates, scheduling interviews, and more. The project uses various design patterns like the <<Adapter pattern>>, <<Null Object pattern>>, <<Observer pattern>>, and <<Factory pattern>>.
+The <<Recruitment Management System>> is a Java-based application that allows HR professionals to manage their recruitment process efficiently. It includes creating jobs, adding candidates, scheduling interviews, and more. The project uses various design patterns like the Adapter pattern, Null Object pattern, Observer pattern, and Factory pattern.
 
 ## Features
 *Create and post new job openings to the Legacy System.
@@ -11,7 +11,7 @@ The <<Recruitment Management System>> is a Java-based application that allows HR
 *Schedule interviews with selected candidates.
 
 # Design Patterns Used
-##Adapter Pattern
+## Adapter Pattern
 The Adapter pattern adapts the Legacy Job System to the new Job Management System. The JobManagementSystemAdapter class acts as an adapter, allowing the new system to use the legacy system's postJob method.
 
 ## Null Object Pattern

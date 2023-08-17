@@ -1,4 +1,4 @@
-# Recruitment_Management_System
+# Recruitment Management System
 This project was developed for the Software Design and Architecture Course, showcasing the application of various design patterns and an innovative UI to create an efficient Recruitment Management System.
 
 ## Introduction
@@ -40,7 +40,7 @@ The Factory pattern is used to create different types of Job objects based on th
 
 - Schedule Interview: Select a candidate from the table and click the "Schedule Interview" button to schedule an interview. Enter the interview date and time in the dialog box that appears.
 
-## Authors
+## Author
 ***Uzbah Naseem*** (uzbahnaseem90@gmail.com) 
 
 ## 🔗 Link
